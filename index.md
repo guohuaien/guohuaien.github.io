@@ -1,6 +1,6 @@
 ## Welcome to guohuaien's Blog
 
-[My First Blog](/blog1.md)
+[My First Blog](/2017_02_12_blog1.md)
 
 [首页](/index.md)
 

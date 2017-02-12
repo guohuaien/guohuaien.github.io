@@ -1,6 +1,6 @@
 ## Welcome to guohuaien's Blog
 
-[My First Blog](https://github.com/guohuaien/guohuaien.github.io/2017-2-12_blog1.md)
+[My First Blog](/2017-2-12_blog1.md)
 
 ### Markdown
 
